@@ -87,6 +87,7 @@ LG 울트라북(LG15U550-GR4EK)에서 사용가능한 EFI입니다.
 - SSDT-BATT : battery status patch
 - SSDT-EC-USBX : fake ec, usb controller
 - SSDT-GPIO
+- SSDT-GPRW : instant wake fix
 - SSDT-HPET : hpet, irq patch
 - SSDT-OSYS
 - SSDT-PLUG
